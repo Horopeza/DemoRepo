@@ -2,7 +2,7 @@
     "items": [
         {
             "id": 1,
-            "description": "first item"
+            "description": "first item modified"
         },
         {
             "id": 2,
@@ -10,7 +10,7 @@
         },
         {
             "id": 3,
-            "description": "third item"
+            "description": "third item tutorial change"
         },
         {
             "id": 4,
